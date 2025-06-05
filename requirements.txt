@@ -1,0 +1,7 @@
+openai
+reportlab
+
+google-adk
+faiss-cpu
+pinecone
+google-cloud-aiplatform
